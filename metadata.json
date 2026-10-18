@@ -1,0 +1,6 @@
+{
+  "name": "AegisLock 13+ | Termux APK AppLocker",
+  "description": "Military-grade Android 13+ App Locker with biometric security, intruder selfie, scramble keypad, calculator camouflage, and native Termux mobile APK compiler.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
